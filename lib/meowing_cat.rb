@@ -1,11 +1,9 @@
 ## code your solution here.
 class Cat
-  def name=(dogs_name)
-   @this_dogs_name = dogs_name
- end
 
- def name
-   @this_dogs_name
-end
+  attr_reader :name
+  attr_writer :name
+
+
 
 end
