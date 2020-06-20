@@ -1,6 +1,4 @@
 ## code your solution here.
-class Cat
-
+class Cat(str)
 def name
-end
 end
