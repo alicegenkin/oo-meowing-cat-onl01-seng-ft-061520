@@ -5,5 +5,4 @@ class Cat
   attr_writer :name
 
 
-
 end
